@@ -74,7 +74,7 @@ Obter todas as tarefas (GET):
 curl http://localhost:8080/api/tasks
 
 
-## tContribuição
+## Contribuição
 Se você encontrar problemas ou melhorias possíveis, sinta-se à vontade para abrir um problema ou enviar uma solicitação pull.
 
 ## Licença
