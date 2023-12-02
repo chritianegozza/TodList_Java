@@ -1,5 +1,13 @@
 ## API de Gerenciamento de Tarefas
 
+Inicializando o projeto 
+![image](https://github.com/chritianegozza/TodList_Java/assets/72118415/88d2e9c9-bea6-4cc0-8515-96d8d5070564)
+
+Testando um select na tabela, H2 Console
+
+![image](https://github.com/chritianegozza/TodList_Java/assets/72118415/121b6ee6-ead6-4ce1-9cd0-ff552cc9939a)
+
+
 
 Esta é uma API simples de gerenciamento de tarefas desenvolvida em Java com Spring Boot, que oferece operações padrão de CRUD para tarefas. A API utiliza enums para representar status e prioridade, e emprega LocalDate para lidar com datas.
 
