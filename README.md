@@ -7,6 +7,9 @@ Testando um select na tabela, H2 Console
 
 ![image](https://github.com/chritianegozza/TodList_Java/assets/72118415/121b6ee6-ead6-4ce1-9cd0-ff552cc9939a)
 
+Usando o Postman método Post
+
+![image](https://github.com/chritianegozza/TodList_Java/assets/72118415/e46c0bbf-3a82-4e04-84a3-475e27e67b37)
 
 
 Esta é uma API simples de gerenciamento de tarefas desenvolvida em Java com Spring Boot, que oferece operações padrão de CRUD para tarefas. A API utiliza enums para representar status e prioridade, e emprega LocalDate para lidar com datas.
